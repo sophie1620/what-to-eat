@@ -1,3 +1,17 @@
+# **Welcome to What To Eat!**
+
+## About the app 🍕
+
+This app is created to showcase and highlight the amazing culinary scene in the GTA (greater Toronto area).  The inspiration for this app comes from personal experiences of trying to figure out what and where to eat.  
+
+A personal aim for this project is to showcase the diverse culinary scene that exists within the GTA.  The list (array) is generated from personal dining experiences at these locations, recommendations of friends, and just good ol' solid Google/Yelp reviews.
+
+# Languages Used
+
+* React.js
+* Sass
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
