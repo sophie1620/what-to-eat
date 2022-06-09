@@ -249,6 +249,10 @@ html {
   overflow: hidden;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 h1 {
   color: black;
 }
